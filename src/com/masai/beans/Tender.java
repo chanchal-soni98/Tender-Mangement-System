@@ -1,4 +1,4 @@
-package beans;
+package com.masai.beans;
 
 public class Tender {
 
