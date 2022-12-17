@@ -27,3 +27,6 @@ The Role of a Vendor is:
 
 # Flow Chart
 ![Flow Chart](https://user-images.githubusercontent.com/70317048/208240261-8cce4b60-d010-4300-b501-caa614948539.png)
+
+# Database
+![Database](https://user-images.githubusercontent.com/70317048/208246243-66dd6aff-ff6a-4b13-8eac-0839aeaa0f6e.png)
