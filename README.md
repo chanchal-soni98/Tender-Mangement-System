@@ -30,3 +30,6 @@ The Role of a Vendor is:
 
 # Database
 ![Database](https://user-images.githubusercontent.com/70317048/208246243-66dd6aff-ff6a-4b13-8eac-0839aeaa0f6e.png)
+
+# Er Diagram
+![Er_dia](https://user-images.githubusercontent.com/70317048/208253096-6c82affd-73c4-4e2b-935a-9f0c4967d55f.png)
