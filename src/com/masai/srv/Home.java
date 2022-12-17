@@ -22,7 +22,7 @@ public class Home {
 				System.out.println("=================================");
 				break;
 			} else {
-				System.out.println("Choose User Type: \n" + "1. Admin \n" + "2. Vendors");
+				System.out.println("Choose User Type: \n" + "1. Administrator \n" + "2. Vendor");
 
 				try {
 					int key = Integer.parseInt(sc.nextLine());
@@ -127,10 +127,7 @@ public class Home {
 					user.updateTender();
 					break;
 				}
-//				case 10: {
-//					user.removeTender();
-//					break;
-//				}
+//				
 				default:
 					System.out.println("=================================");
 					System.out.println("Invalid Choice");
