@@ -26,7 +26,7 @@ public class DBUtil {
 					e.printStackTrace();
 				}
 
-				String url = "jdbc:mysql://localhost:3306/cw";
+				String url = "jdbc:mysql://localhost:3306/sb101db";
 
 				con = DriverManager.getConnection(url, "root", "Soni@123");
 
