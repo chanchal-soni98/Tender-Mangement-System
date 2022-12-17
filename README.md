@@ -25,5 +25,5 @@ The Role of a Vendor is:
 3. View status of a Bid(Whether Selected or Not)
 4. View his own Bid History. 
 
-====Flow Chart=====
+# Flow Chart
 ![Flow Chart](https://user-images.githubusercontent.com/70317048/208240261-8cce4b60-d010-4300-b501-caa614948539.png)
